@@ -14,7 +14,8 @@
     "기기 변경·데이터 이동"
   ],
   "url": "https://iphone.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "section": "아이폰·iOS 문제 해결",
-  "pageTitle": "아이폰 설정·오류 해결 가이드 | GuideHollow"
+  "pageTitle": "아이폰 설정·오류 해결 가이드 | GuideHollow",
+  "adsReady": false
 }
