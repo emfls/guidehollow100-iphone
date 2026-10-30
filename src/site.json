@@ -1,0 +1,18 @@
+{
+  "title": "GuideHollow iPhone",
+  "slug": "iphone",
+  "short": "iPhone",
+  "hero": "Solve everyday iPhone problems with confidence.",
+  "description": "iPhone storage, battery, backups, connectivity and privacy.",
+  "accent": "#7c55b5",
+  "topics": [
+    "Storage",
+    "Battery",
+    "Photos",
+    "Wi-Fi and cellular",
+    "Privacy",
+    "Transfers"
+  ],
+  "url": "https://iphone.guidehollow.com/",
+  "launchReady": false
+}
